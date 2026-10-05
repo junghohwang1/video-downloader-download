@@ -46,4 +46,4 @@
 
 ## 이용 안내
 - 저작권이 있는 콘텐츠는 권리자의 허락 없이 내려받거나 배포하지 마세요. 각 사이트의 이용약관을 따라야 합니다.
-- 유튜브 기능은 오픈소스 [NewPipe Extractor](https://github.com/TeamNewPipe/NewPipeExtractor)(GPL-3.0)를 사용합니다. 소스가 필요하면 이 저장소의 Issues 로 요청해 주세요.
+- 유튜브 기능은 오픈소스 [NewPipe Extractor](https://github.com/TeamNewPipe/NewPipeExtractor)(GPL-3.0)를 사용합니다. 앱 소스는 [junghohwang1/videodownloader](https://github.com/junghohwang1/videodownloader) 에 공개되어 있습니다.
